@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "02c5827de22e9742",
+    "type": "split",
+    "children": [
+      {
+        "id": "69c27d3c39cb9d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ba0aaa35fe3beae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/规则/server-rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "server-rule"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cddcb8edd99de182",
+    "type": "split",
+    "children": [
+      {
+        "id": "349701b5fe333137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8c995f528b8456",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3efae3696b89b4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b0ddfad506c0acdd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 450.5
+  },
+  "right": {
+    "id": "426b09b237c2cf96",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7fa240e9b5e615b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "066ec45b68e19071",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "56a340a3c009e595",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "02cc25663d21b4d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9e4ff55c325c0e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3ba0aaa35fe3beae",
+  "lastOpenFiles": [
+    "docs/vite.config.mts.timestamp-1736807596631-ec09d00dc1562.mjs",
+    "docs/规则/group-rule.md",
+    "docs/规则/server-rule.md",
+    "docs/入门/register-and-login.md",
+    "docs/入门/how2join.md",
+    "docs/issues.md",
+    "docs/intro.md",
+    "docs/入门/username.md",
+    "docs/vite.config.mts.timestamp-1736803928245-26bedc8944aef.mjs",
+    "docs/vite.config.mts.timestamp-1736803123123-e71846c884ac9.mjs",
+    "docs/vite.config.mts.timestamp-1736803081406-5cdc3941f3b22.mjs",
+    "docs/index.md",
+    "docs/public/server-icon.png",
+    "docs/public/crashlogo.png",
+    "docs/vite.config.mts.timestamp-1736802834904-bd9842604612d.mjs",
+    "docs/vite.config.mts.timestamp-1736802827644-207c363ed99a5.mjs",
+    "docs/vite.config.mts.timestamp-1736802816844-fbe04eec78f8e.mjs",
+    "docs/vite.config.mts.timestamp-1736784968889-0f3b589e3e126.mjs",
+    "docs/vite.config.mts.timestamp-1736784946771-12f0a250e2299.mjs",
+    "docs/vite.config.mts.timestamp-1736783498352-ddbc50e376ed3.mjs",
+    "docs/vite.config.mts.timestamp-1736783438522-9ce4496d2ea6.mjs",
+    "docs/玩法/资源/e65e226cd464a2dde4c55487c97c2eb0.png",
+    "docs/规则/红石.md",
+    "docs/yaoyi-func/运行状态.md",
+    "docs/yaoyi-func/天气.md",
+    "docs/yaoyi-func/Github Card.md",
+    "docs/others/support.md",
+    "docs/FAQ.md",
+    "docs/yaoyi-func/网抑云.md",
+    "docs/yaoyi-func/assets/天气.png",
+    "docs/jieshao.md",
+    "README.md",
+    "docs/yaoyi-func/塔罗牌.md",
+    "docs/yaoyi-func/B站视频分析.md",
+    "docs/yaoyi-func/assets/github_card.png",
+    "docs/about/contact.md",
+    "docs/yaoyi-func/今天吃什么.md",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
+  ]
+}
