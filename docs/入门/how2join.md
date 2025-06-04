@@ -4,7 +4,7 @@
 
 ## 服务器 IP
 
-服务器 IP： `game.tblstudio.cn`
+服务器 IP： `game.crashvibe.cn`
 
 ## 加入步骤
 
@@ -12,7 +12,7 @@
 2. 启动后点击“多人游戏”
 3. 点击“添加服务器”
 4. 填入服务器名称：`CrashVibe Server` (或 `CrashVibe 服务器`)
-5. 填入服务器地址：`game.tblstudio.cn`
+5. 填入服务器地址：`game.crashvibe.cn`
 6. 点击完成，然后点击“刷新”, 最后点击“加入服务器”
 
 ::: info

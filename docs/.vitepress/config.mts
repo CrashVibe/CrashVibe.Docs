@@ -24,7 +24,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   cleanUrls: true,
   sitemap: {
-    hostname: "https://cvdocs.tblstudio.cn",
+    hostname: "https://cvdocs.crashvibe.cn",
   },
   themeConfig: {
     // logo: { src: "/server-icon.png", width: 30, height: 38 },
@@ -64,7 +64,6 @@ export default defineConfig({
         text: "教程",
         items: [
           { text: "💡 技巧", link: "/教程/技巧" },
-          { text: "🖼️ 地皮", link: "/教程/地皮" },
           { text: "⚖️ 商店", link: "/教程/商店" },
           { text: "🔒 领地", link: "/教程/领地" },
           { text: "⛏️ 连锁", link: "/教程/连锁" },
@@ -75,23 +74,16 @@ export default defineConfig({
       {
         text: "玩法",
         items: [
-          { text: "😊 更好的 Minecraft", link: "/玩法/better-minecraft" },
           { text: "🌾 资源", link: "/玩法/资源" },
           { text: "🏙️ 建筑", link: "/玩法/建筑" },
-          { text: "🌟 天堂", link: "/玩法/天堂" },
           { text: "🏢 大厅", link: "/玩法/大厅" },
           { text: "🐾 宠物", link: "/玩法/宠物" },
-          { text: "⚔️ 单挑", link: "/玩法/单挑" },
         ],
       },
       {
         text: "其他",
         items: [
-          { text: "🍃 叶子", link: "/其他/叶子" },
-          { text: "🎉 活动", link: "/其他/活动" },
           { text: "🌍 地图", link: "/其他/地图" },
-          { text: "🏅 名人", link: "/其他/名人" },
-          { text: "👑 称号", link: "/其他/称号" },
         ],
       },
     ],
