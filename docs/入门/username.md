@@ -6,10 +6,10 @@
 
 角色名字只能包含以下字符：
 
-* 大写字母 A-Z
-* 小写字母 a-z
-* 数字 0-9
-* 下划线 _
+- 大写字母 A-Z
+- 小写字母 a-z
+- 数字 0-9
+- 下划线 \_
 
 ## 2. 长度限制
 
@@ -27,11 +27,11 @@
 
 以下是一些角色名字的示例，它们符合我们的命名规则：
 
-* Alex123
-* GamerGirl\_
-* CaptainAwesome
-* PixelNinja
-* FantasyWizard
+- Alex123
+- GamerGirl\_
+- CaptainAwesome
+- PixelNinja
+- FantasyWizard
 
 :::danger
 错误的例子
@@ -46,4 +46,4 @@
 8. **SexyGoddess**: 含有不恰当的性暗示。
 9. **XX**: 字数没达到 3\~16 字符
 10. **张哥之足球梦想**: 错误的字符
-:::
+    :::

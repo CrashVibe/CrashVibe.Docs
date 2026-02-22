@@ -19,7 +19,6 @@ export default defineConfig({
   head: [
     ["link", { rel: "icon", href: "/server-icon.png" }],
     ["script", { async: "", src: "/m.js" }],
-    ["script", { async: "true", src: "/cursor.js" }],
   ],
   ignoreDeadLinks: true,
   cleanUrls: true,
@@ -82,9 +81,7 @@ export default defineConfig({
       },
       {
         text: "其他",
-        items: [
-          { text: "🌍 地图", link: "/其他/地图" },
-        ],
+        items: [{ text: "🌍 地图", link: "/其他/地图" }],
       },
     ],
     editLink: {
