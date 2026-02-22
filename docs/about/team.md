@@ -14,7 +14,7 @@ import {
 const coreMembers = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=1990248284&spec=100',
-    name: 'Mr.ling',
+    name: 'MrlingXD',
     links: [
       { icon: 'github', link: 'https://github.com/wling-art' }
     ]
